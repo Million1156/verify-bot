@@ -2,6 +2,10 @@
  Hi! I am pretty new to making README's,so sorry about that! 
 # 
 $ run npm i to install the required packages
+# NOTE: REMEMBER TO ENABLE THE MEMBER INTENT ON THE DEVELOPER PANEL.
+( https://i.imgur.com/VsysHYX.png ) to view how.
+
+
 # go to the config.js and set these values:
 Set TOKEN to your Discord Bot Token
 # 
