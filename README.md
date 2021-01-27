@@ -1,7 +1,8 @@
 # verify-bot
  Hi! I am pretty new to making README's,so sorry about that! 
-# na
+# 
  run npm i to install the required packages
+#
  go to the config.js and set these values:
 Set TOKEN to your Discord Bot Token
 Set EMBEDCOLOR to the color you want your bot's embeds to be
