@@ -11,6 +11,9 @@
  Set VERIFIEDLOG to the channel ID that will log verified users.
  Set UNVERIFIEDROLE to the role that the user will be given if they're not verified
  Set VERIFIEDROLE to the role that the user will be given when they verify.
+
+
+
  Set VERIFICATIONFAIL to what you want the bot to do when the user fails or doesn't respond in time [options: kick,ban]
  clone this repo with git clone https://github.com/Million1156/verify-bot
 
