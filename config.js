@@ -19,6 +19,5 @@ module.exports.questions = [
     'What is 2+2?',
     'Whens your birthday?',
     'Do you like us?' //You can add more questions if you'd like!
-                      //Just put a comma and the question in 's,NOT ".
-                      //For a guide,DM Million1156#0001.
+                    
 ]
