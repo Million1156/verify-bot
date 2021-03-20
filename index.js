@@ -11,7 +11,7 @@ client.on('ready', () => {
 client.on('guildMemberAdd', async member => {
     const embed = new MessageEmbed({ color: config.embedColor })
         .setAuthor(member.user.username, member.user.displayAvatarURL({ dynamic: true }))
-        .setFooter(`${member.guild.name} | Made By Million1156`)
+        .setFooter(`${member.guild.name} | Made By Fuel`)
         .setTimestamp()
 
     const answers = []
