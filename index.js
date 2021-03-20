@@ -36,7 +36,7 @@ client.on('guildMemberAdd', async member => {
     if (log) {
         for (let i in desc) {
             if (i == 0) log.send(new MessageEmbed({ color: config.embedColor }).setTitle(`${member.user.tag} Completed Verification`).setDescription(desc[i]))
-            else if (i == desc.length - 1) log.send(new MessageEmbed({ color: config.embedColor }).setDescription(desc[i]).setFooter('Log split due to discords 2,000 character limit | Million1156'))
+            else if (i == desc.length - 1) log.send(new MessageEmbed({ color: config.embedColor }).setDescription(desc[i]).setFooter('Log split due to discords 2,000 character limit | Fuel Development'))
             else log.send(new MessageEmbed({ color: config.embedColor }).setDescription(desc[i]))
         }
     }
